@@ -1,3 +1,4 @@
+// Source: https://github.com/ainth/coffeescript-style-guide
 {
     "coffeescript_error": {
         "level": "error"
